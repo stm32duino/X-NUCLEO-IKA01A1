@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For x_nucleo_ika01a1
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+TSZ124	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+TSZ124	KEYWORD2
+Init	KEYWORD2
+ReadID	KEYWORD2
+GetVoltage	KEYWORD2
+GetCurrent	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+NULL	LITERAL1
+TSZ124_ADDRESS	LITERAL1
+TSZ124_WHO_AM_I_ADDR	LITERAL1
+I_AM_TSZ124	LITERAL1
