@@ -26,7 +26,7 @@ Key Features:
 * Powered through the Arduino UNO connectors
 * RoHS compliant
 
-# Examples
+## Examples
 
 * X_NUCLEO_IKA01A1_HelloWorld: This application provides a simple example of usage of the X-NUCLEO-IKA01A1 
 
